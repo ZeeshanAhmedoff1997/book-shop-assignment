@@ -52,7 +52,7 @@ CRUD App using MERN Stack, it uses ReactJS for Front-end, NodeJS, Express For th
 
 ## :information_source: Application installation
 
-- `https://github.com/VictorLira-DEV/CRUD-APP.git` to clone the repository
+- `https://github.com/ZeeshanAhmedoff1997/book-shop-assignment.git` to clone the repository
 
 <br>
 
